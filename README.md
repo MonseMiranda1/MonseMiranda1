@@ -9,8 +9,9 @@ Aspiring JavaScript Developer • Rug Artist
 ### ✨ About me
 
 - 🎨 I’m a rug artist
-- 💻 Currently learning Full Stack Java Development
+- 💻 Currently studying Full Stack Java Development
 - 👀 Exploring tech
+- 📚 Always learning and building new skills  
 - 🌎 Based in Chile
 - 🌱 Vegan
 
@@ -24,9 +25,10 @@ Aspiring JavaScript Developer • Rug Artist
 
 ---
 
-### 🚀 Projects
+### 🚀 Goals
 
-- 🧶 Custom rug designs
+- Become a Full Stack Java Developer
+- Combine tech and creativity 
 
 ---
 
