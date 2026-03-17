@@ -27,8 +27,9 @@ Aspiring JavaScript Developer • Rug Artist
 
 ### 🚀 Goals
 
-- Become a Full Stack Java Developer
-- Combine tech and creativity 
+- Become a Full Stack JavaScript Developer
+- Combine tech and art into personal projects
+- Build a creative brand that connects both worlds
 
 ---
 
