@@ -1,16 +1,16 @@
-< Hi there, I'm Monse
+<h1 align="center">Hi there, I'm Monse 👋</h1>
 
-
-Welcome to my GitHub profile! 👋
-  Full Stack Java Developer • Creative Maker
+<p align="center">
+Aspiring JavaScript Developer • Rug Artist
 </p>
 
 ---
 
 ### ✨ About me
 
-- 🎨 Im a Veterinary technician who  creates  custom rugs
-- 💻 Currently learning Full Stack Java Developer🗣️
+- 🎨 I’m a rug artist
+- 💻 Currently learning Full Stack Java Development
+- 👀 Exploring tech
 - 🌎 Based in Chile
 - 🌱 Vegan
 
@@ -20,25 +20,22 @@ Welcome to my GitHub profile! 👋
 
 - HTML / CSS / JavaScript (learning)
 - Git & GitHub
-- Design tools (Illustrator, Procreate, etc.)
+- Design tools (Illustrator, Procreate)
 
 ---
 
 ### 🚀 Projects
 
-- 🧶 Custom rug designs  
-
----
-
+- 🧶 Custom rug designs
 
 ---
 
 ### 🌈 Fun fact
 
-Im learning how to mix art and code — from rugs to repos 😌
+I’m learning how to mix art and code — from rugs to repos 😌
 
 ---
 
 <p align="center">
-  Thanks for stopping by 💜
+Thanks for stopping by 💜
 </p>
