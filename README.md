@@ -1,16 +1,47 @@
-## Hi there 👋
+<p align="center">
+  <img src="logo-monse.png" width="300"/>
+</p>
 
-<!--
-**MonseMiranda1/MonseMiranda1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Monse 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Creative maker • Rug artist • Learning tech
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✨ About me
+
+- 🎨 Im a Veterinary technician who now creates  custom rugs
+- 💻 Currently learning Full Stack Java Developer🗣️
+- 🌎 Based in Chile
+- 🌱 Vegan
+
+---
+
+### 🛠️ Tech & Tools
+
+- HTML / CSS / JavaScript (learning)
+- Git & GitHub
+- Design tools (Illustrator, Procreate, etc.)
+
+---
+
+### 🚀 Projects
+
+- 🧶 Custom rug designs  
+
+---
+
+
+---
+
+### 🌈 Fun fact
+
+Im learning how to mix art and code — from rugs to repos 😌
+
+---
+
+<p align="center">
+  Thanks for stopping by 💜
+</p>
