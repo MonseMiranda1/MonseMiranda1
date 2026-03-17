@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="logo-monse.png" alt="Hi there I'm Monse" width="400"/>
-</p>
+<img src="assets/logo-monse.png" width="400"/>
 
 <h1 align="center">Hi there, I'm Monse 👋</h1>
 
