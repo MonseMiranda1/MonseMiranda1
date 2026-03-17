@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="logo-monse.png" width="300"/>
+  <img src="logo-monse.png" alt="Hi there I'm Monse" width="400"/>
 </p>
 
 <h1 align="center">Hi there, I'm Monse 👋</h1>
