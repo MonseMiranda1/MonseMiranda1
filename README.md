@@ -37,5 +37,5 @@ I’m learning how to mix art and code — from rugs to repos 😌
 ---
 
 <p align="center">
-Thanks for stopping by 💜
+
 </p>
