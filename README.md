@@ -1,9 +1,11 @@
-<img src="assets/logo-monse.png" width="400"/>
+<p align="center">
+  <img src="logo-monse.png" alt="Hi there I'm Monse" width="400"/>
+</p>
 
 <h1 align="center">Hi there, I'm Monse 👋</h1>
 
 <p align="center">
-  Creative maker • Rug artist • Learning tech
+  Full Stack Java Developer • Creative Maker
 </p>
 
 ---
